@@ -16,8 +16,10 @@ public class Main {
 
         // ProduitA1 créé par la méthode
         produit = produitFactory1.getProduit();
+        produit.methodeA();
         
         // ProduitA2 créé par la méthode
         produit = produitFactory2.getProduit();
+        produit.methodeA();
     }
 }
