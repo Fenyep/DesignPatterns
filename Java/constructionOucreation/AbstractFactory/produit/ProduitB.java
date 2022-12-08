@@ -1,5 +1,6 @@
 package produit;
 
+// Participant: Produit (B)
 public abstract class ProduitB {
     private String name;
     private double value;

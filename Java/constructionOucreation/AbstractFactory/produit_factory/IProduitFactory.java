@@ -3,6 +3,7 @@ package produit_factory;
 import produit.ProduitA;
 import produit.ProduitB;
 
+// Participant: Fabrique Abstraite
 public abstract class IProduitFactory {
 
     public abstract ProduitA createProduitA();

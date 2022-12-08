@@ -4,6 +4,7 @@ import produit_factory.ProduitFactory2;
 import produit.ProduitA;
 import produit.ProduitB;
 
+// Participant: Client
 public class Main {
     public static void main(String[] args) {
         // Initilisation fabrique 1

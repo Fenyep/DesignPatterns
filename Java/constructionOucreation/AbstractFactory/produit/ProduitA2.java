@@ -1,5 +1,6 @@
 package produit;
 
+// Participant: Produit (A2)
 public class ProduitA2 extends ProduitA{
 
     public void methodeA() {

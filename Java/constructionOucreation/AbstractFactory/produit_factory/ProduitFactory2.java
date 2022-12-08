@@ -5,6 +5,7 @@ import produit.ProduitB;
 import produit.ProduitA2;
 import produit.ProduitB2;
 
+// Participant: Fabrique Concrete (2)
 public class ProduitFactory2 extends IProduitFactory {
 
     public ProduitA createProduitA() {
