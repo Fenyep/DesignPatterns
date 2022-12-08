@@ -3,6 +3,7 @@ import produit_factory.ProduitFactory1;
 import produit_factory.ProduitFactory2;
 import produit.ProduitA;
 
+// Participant: Client
 public class Main {
     public static void main(String[] args) {
 

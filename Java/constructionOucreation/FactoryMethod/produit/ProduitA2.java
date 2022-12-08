@@ -1,5 +1,6 @@
 package produit;
 
+// Participant: Produit Concret (1)
 public class ProduitA2 extends ProduitA {
     public ProduitA2() {
     }
